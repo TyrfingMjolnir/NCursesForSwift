@@ -32,3 +32,4 @@ drwxr-xr-x    - user  9 Mar 10:26 ├── Panel
 drwxr-xr-x    - user  9 Mar 09:52 │  └── Sources
 .rw-r--r--  179 user  9 Mar 13:05 └── README.md
 ```
+https://asciinema.org/a/565890
