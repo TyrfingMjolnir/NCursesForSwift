@@ -33,3 +33,7 @@ drwxr-xr-x    - user  9 Mar 09:52 │  └── Sources
 .rw-r--r--  179 user  9 Mar 13:05 └── README.md
 ```
 https://asciinema.org/a/565890
+
+The main reason for choosing a terminal UI is most likely bandwidth distribution; no need to load graphics as the fonts are already loaded on the client itself and security ssh( or lack thereof; telnet to save even more bandwidth )
+
+My focus on this is in the tiling window manager perspective; even though you will be able to use coordinates, I will focus on making fractions of available space possible with as little effort as possible.
