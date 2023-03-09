@@ -1,0 +1,5 @@
+module forms [system] {
+    header "forms.h"
+    link "forms"
+    export *
+}

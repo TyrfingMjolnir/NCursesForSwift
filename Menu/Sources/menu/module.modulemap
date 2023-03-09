@@ -1,0 +1,5 @@
+module menu [system] {
+    header "menu.h"
+    link "menu"
+    export *
+}
